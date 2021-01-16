@@ -1,0 +1,4 @@
+#Sun Apr 19 01:20:19 EDT 2020
+base.0=/Users/sujithkumar/AndroidStudioProjects/SimpleDht/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
